@@ -60,7 +60,7 @@ body {
 
   /* rotate to "page margin" */
   position: absolute;
-  transform: rotate(-90deg) translateX(-100%);
+  transform: rotate(-90deg) translateX(-100%) translateX(-100px);
   transform-origin: top left;
 
   /* CMYK check boxes */
